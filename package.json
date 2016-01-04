@@ -13,7 +13,7 @@
   "keywords": [
     "parser",
     "html",
-    "configuration"
+    "configurable"
   ],
   "author": "Herobs <herobs@herobs.cn>",
   "license": "MIT",
