@@ -1,7 +1,7 @@
 {
-  "name": "body-parser",
-  "version": "1.0.0",
-  "description": "a parser using configuration to parse html body.",
+  "name": "configurable-html-parser",
+  "version": "1.0.1",
+  "description": "A configurable html parser.",
   "main": "lib/parser.js",
   "scripts": {
     "test": "test/parser.js"
