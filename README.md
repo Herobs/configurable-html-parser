@@ -4,7 +4,8 @@ HTML Body Parser
 Parse html document with a specific configuration object.
 
 ##Install
-`npm install configurable-html-parser`
+
+    npm install configurable-html-parser
 
 ##Usage
 
