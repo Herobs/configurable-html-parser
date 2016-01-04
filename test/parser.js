@@ -1,7 +1,8 @@
 var request = require('request');
+var parser = require('../lib/parser.js');
 
 request('https://github.com/Herobs?tab=repositories', function(err, res, body) {
-  console.log(module.exports(body, {
+  console.log(parser(body, {
     anthor: {
       selector: 'h1.vcard-names > span.vcard-username'
     },
