@@ -3,11 +3,13 @@ HTML Body Parser
 
 Parse html document with a specific configuration object.
 
-##Install
+Install
+-------
 
     npm install configurable-html-parser
 
-##Usage
+Usage
+-----
 
 Parser my personal github repositories for an example.
 
@@ -63,3 +65,8 @@ example output:
     }]
 }
 ```
+
+License
+-------
+
+This package released under MIT license.
